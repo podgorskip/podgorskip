@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
-My name is **Patryk**, and I'm a computer science student 💻
-\nThe programming language I'm currently learning is **C** 👨🏻‍💻
+My name is **Patryk**, and I'm a computer science student 💻 <br>
+The programming language I'm currently learning is **C** 👨🏻‍💻 <br>
 \nYou can reach me here *podgorski.p@interia.eu* 📫
 
 
