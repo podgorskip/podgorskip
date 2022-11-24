@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Patryk**, and I'm a computer science student 💻
+The programming language I'm currently learning is **C** 👨🏻‍💻
+You can reach me here *podgorski.p@interia.eu* 📫
+
+
 <!--
 **podgorskip/podgorskip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
