@@ -2,7 +2,7 @@
 
 My name is **Patryk**, and I'm a computer science student 💻 <br>
 The programming language I'm currently learning is **C** 👨🏻‍💻 <br>
-\nYou can reach me here *podgorski.p@interia.eu* 📫
+You can reach me here *podgorski.p@interia.eu* 📫
 
 
 <!--
