@@ -4,6 +4,8 @@ My name is **Patryk**, and I'm a computer science student 💻 <br>
 The programming language I'm currently learning is **C** 👨🏻‍💻 <br>
 You can reach me here *podgorski.p@interia.eu* 📫
 
+[My Home Page](https://podgorskip.github.io/)
+
 
 <!--
 **podgorskip/podgorskip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
