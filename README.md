@@ -6,6 +6,9 @@ You can reach me here *podgorski.p@interia.eu* 📫
 
 [My Home Page](https://podgorskip.github.io/)
 
+[Paint-by-example Fork Repository](https://github.com/podgorskip/Paint-by-Example)
+([Source](https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing#code))
+
 
 <!--
 **podgorskip/podgorskip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
